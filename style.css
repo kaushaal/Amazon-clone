@@ -14,7 +14,7 @@ html {
   background-color: #0f1111;
   color: white;
   display: flex;
-  align-items: center; 
+  align-items: center;
   justify-content: space-evenly;
 }
 
@@ -28,6 +28,7 @@ html {
   height: 50px;
   width: 100%;
   background-size: cover;
+  /* cursor: pointer; */
 }
 
 .border {
@@ -235,6 +236,7 @@ footer {
 .foot-panel1 a {
   color: white;
   text-decoration: none;
+  padding: 15px;
 }
 
 .foot-panel2 {
